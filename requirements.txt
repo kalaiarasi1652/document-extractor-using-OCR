@@ -1,0 +1,10 @@
+pytesseract
+opencv-python
+Pillow
+google-generativeai
+pdf2image
+pandas
+openpyxl
+streamlit
+langdetect
+llm.gemini_processor

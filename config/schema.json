@@ -1,0 +1,29 @@
+{
+  "birth_certificate": {
+    "full_name": "John Doe",
+    "birth_date": "1990-01-01",
+    "place_of_birth": "New York"
+  },
+  "passport": {
+    "passport_number": "X1234567",
+    "full_name": "John Doe",
+    "nationality": "USA",
+    "date_of_issue": "2020-01-01",
+    "date_of_expiry": "2030-01-01"
+  },
+  "driver_license": {
+    "license_number": "DL123456789",
+    "full_name": "John Doe",
+    "issued_state": "California",
+    "valid_from": "2022-01-01",
+    "valid_to": "2032-01-01"
+  },
+  "voter_id": {
+    "voter_id_number": "ABC1234567",
+    "full_name": "John Doe",
+    "father_name": "Richard Doe",
+    "gender": "Male",
+    "date_of_birth": "1985-03-21",
+    "address": "123 Elm Street, Springfield"
+  }
+}
